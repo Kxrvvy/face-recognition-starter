@@ -1,5 +1,7 @@
 opencv-python<5
-imgbeddings
+transformers
+torch
 psycopg2-binary
 pgvector
 pillow
+python-dotenv
